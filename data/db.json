@@ -3,104 +3,20 @@
         {
             "id": 1,
             "text": "Happy christmas to you and your family",
-            "sender": 2,
-            "receiver": 6
+            "sender": "Ferdi",
+            "receiver": "Lisa"
         },
         {
             "id": 2,
             "text": "HOHOHO happy christmas to you!",
-            "sender": 2,
-            "receiver": 6
+            "sender": "Maya",
+            "receiver": "Dillan"
         },
         {
             "id": 3,
             "text": "They say the best Christmas gifts come from the heart … but cash and gift cards do wonders too! Happy Holidays!",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 4,
-            "text": "Wunderfull christmas to you",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 5,
-            "text": "Don we now our ugly sweaters… Let's party! Happy Holidays!",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 6,
-            "text": "Christmas is the only time of year in which one can sit in front of a dead tree and eat candy out of socks. Enjoy!",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 7,
-            "text": "Wishing you a white Christmas! (And when you run out of white, just open a bottle of red).",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 8,
-            "text": "You're a gift in my life. And not the kind I'd return for store credit. Merry Christmas!",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 9,
-            "text": "A Christmas reminder: Don't try to borrow any money from elves ... they're always a little short! Have a Merry Christmas!",
-            "sender": 2,
-            "receiver": 6
-        },
-        {
-            "id": 10,
-            "text": "Wishing you hope, peace and lots of Christmas cookies this holiday season!",
-            "sender": 2,
-            "receiver": 6
-        }
-    ],
-    "user": [
-        {
-            "id": 1,
-            "name": "Bob"
-        },
-        {
-            "id": 2,
-            "name": "Bob"
-        },
-        {
-            "id": 3,
-            "name": "Bob"
-        },
-        {
-            "id": 4,
-            "name": "Bob"
-        },
-        {
-            "id": 5,
-            "name": "Bob"
-        },
-        {
-            "id": 6,
-            "name": "Bob"
-        },
-        {
-            "id": 7,
-            "name": "Bob"
-        },
-        {
-            "id": 8,
-            "name": "Bob"
-        },
-        {
-            "id": 9,
-            "name": "Bob"
-        },
-        {
-            "id": 10,
-            "name": "Bob"
+            "sender": "Vaso",
+            "receiver": "Dominik"
         }
     ]
 }
