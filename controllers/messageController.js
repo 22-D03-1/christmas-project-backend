@@ -35,7 +35,7 @@ export const deleteMessage = async (req, res) => {
 
     db.write();
 
-    res.json(202).send(`${req.params.id} deleted`);
+    res.status(202).send(`${req.params.id} deleted`);
 };
 export const createMessage = async (req, res) => {
     await db.read();
