@@ -40,7 +40,7 @@ export const deleteMessage = async (req, res) => {
 export const createMessage = async (req, res) => {
     await db.read();
     const nextId = Math.max(...db.data.message.map((a) => a.id)) + 1;
-    db.data.messsage.push({id: nextId, ...req.body})
+    db.data.message.push({id: nextId, ...req.body})
     db.write()
     res.send(`${nextId}`)
 };

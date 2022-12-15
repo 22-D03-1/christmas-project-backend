@@ -1,22 +1,29 @@
 {
-    "message": [
-        {
-            "id": 1,
-            "text": "Happy christmas to you and your family",
-            "sender": "Ferdi",
-            "receiver": "Lisa"
-        },
-        {
-            "id": 2,
-            "text": "HOHOHO happy christmas to you!",
-            "sender": "Maya",
-            "receiver": "Dillan"
-        },
-        {
-            "id": 3,
-            "text": "They say the best Christmas gifts come from the heart … but cash and gift cards do wonders too! Happy Holidays!",
-            "sender": "Vaso",
-            "receiver": "Dominik"
-        }
-    ]
+  "message": [
+    {
+      "id": 1,
+      "text": "Happy christmas to you and your family",
+      "sender": "Ferdi",
+      "receiver": "Lisa"
+    },
+    {
+      "id": 2,
+      "text": "HOHOHO happy christmas to you!",
+      "sender": "Maya",
+      "receiver": "Dillan"
+    },
+    {
+      "id": 3,
+      "text": "They say the best Christmas gifts come from the heart … but cash and gift cards do wonders too! Happy Holidays!",
+      "sender": "Vaso",
+      "receiver": "Dominik"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "text": "Happy christmas to you and your friends"
+    }
+  ]
 }
